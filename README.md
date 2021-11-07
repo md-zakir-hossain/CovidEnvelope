@@ -20,7 +20,7 @@ python train.py
 ```
 
 ## Citation
-If you find this work useful for your research, please our [paper](https://arxiv.org/abs/1711.09020):
+If you find this work useful for your research, please cite [paper](https://arxiv.org/abs/1711.09020):
 ```
 @unknown{unknown,
 author = {Hossain, Md and Uddin, Md and Yang,Yan and Ahmed, Khandaker},
