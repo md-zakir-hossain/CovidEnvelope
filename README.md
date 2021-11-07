@@ -1,6 +1,6 @@
 ## CovidEnvelop Implementation
 
-<img width="100%" src="pic/CovidEnvelope.jpg" />
+<img width="100%" src="pic/CovidEnvelop.jpg" />
 
 ## Dependencies
 * librosa
