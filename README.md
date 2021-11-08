@@ -22,7 +22,7 @@ python train.py
 ## Citation
 If you find this work useful for your research, please cite [paper](https://www.medrxiv.org/content/10.1101/2021.04.16.21255630v1):
 ```
-@unknown{unknown,
+@unknown{zk21,
 author = {Hossain, Md and Uddin, Md and Yang,Yan and Ahmed, Khandaker},
 year = {2021},
 month = {04},
