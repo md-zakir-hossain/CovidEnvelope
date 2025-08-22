@@ -3,18 +3,20 @@
 <img width="20%" src="pic/CovidEnvelop.jpg" />
 
 ## Dependencies
-* librosa
-* pylab
-* audio2numpy
-* signal_envelope
+```bash
+pip install librosa pylab audio2numpy signal_envelope
+```
 
-## Downloading datasets
+## Datasets
 To get Russian dataset:
 
 ```bash
-!git clone https://github.com/covid19-cough/dataset.git\
+git clone https://github.com/covid19-cough/dataset.git
 ```
-## Training
+## Training & Evaluation
+
+Train the model on the dataset:   
+
 ```bash
 python train.py
 ```
