@@ -1,6 +1,5 @@
 ## CovidEnvelop Implementation
 CovidEnvelope is an end-to-end pipeline that extracts features from cough recordings and applies a machine learning model (logistic regression on signal envelope features) to distinguish between COVID-19 positive and negative samples.
-<img width="20%" src="pic/CovidEnvelop.jpg" />
 
 ### Features
 
