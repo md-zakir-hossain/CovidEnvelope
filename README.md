@@ -20,14 +20,14 @@ python train.py
 ```
 
 ## Citation
-If you find this work useful for your research, please cite [paper](https://www.medrxiv.org/content/10.1101/2021.04.16.21255630v1):
+If you find this work useful for your research, please cite [paper](https://ieeexplore.ieee.org/document/9718501):
 ```
-@unknown{zk21,
-author = {Hossain, Md and Uddin, Md and Yang,Yan and Ahmed, Khandaker},
-year = {2021},
-month = {04},
-pages = {},
-title = {CovidEnvelope: A Fast Automated Approach to Diagnose COVID-19 from Cough Signals},
-doi = {10.1101/2021.04.16.21255630}
+@inproceedings{hossain2021covidenvelope,
+  title={Covidenvelope: an automated fast approach to diagnose covid-19 from cough signals},
+  author={Hossain, Md Zakir and Uddin, Md Bashir and Yang, Yan and Ahmed, Khandaker Asif},
+  booktitle={2021 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
 }
 ```
